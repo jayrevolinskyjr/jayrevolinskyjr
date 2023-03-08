@@ -6,7 +6,7 @@ This profile is linked to my work involving my Master's and Undergraduate work.
 
 ### Highlights
 
-* Coordinated discussion on integrating SKU Lookup. ChicoState/PantryNode#25
+* Coordinated [discussion](https://github.com/ChicoState/PantryNode/discussions/37) on integrating SKU Lookup. ChicoState/PantryNode#25
 
 ### PantryNode
 
