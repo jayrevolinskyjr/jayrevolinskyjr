@@ -12,11 +12,11 @@ This profile is linked to my work involving my Master's and Undergraduate work.
 
 | Type       | Link                     | Notes                                      |
 |------------|--------------------------|--------------------------------------------|
-| DevOps     | [ChicoState/PantryNode#41] | Enabled build step on push to main.        | 
+| DevOps     | ChicoState/PantryNode#41 | Enabled build step on push to main.        | 
 | DevOps     | ChicoState/PantryNode#47 | README instructions - run ESLint local.    | 
 | Feature    | ChicoState/PantryNode#25 | Integrate SKU lookup.                      | 
 | PairProg.  | ChicoState/PantryNode#40 | Troubleshooting/Programming with reembot   |
-| CodeReview | [ChicoState/PantryNode/pull/35](https://github.com/ChicoState/PantryNode/pull/41) | Enable build step for all PRs.             |
+| CodeReview | ChicoState/PantryNode#35 | Enable build step for all PRs.             |
 
 ### Timeline
 
