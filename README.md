@@ -20,6 +20,7 @@ This profile is linked to my work involving my Master's and Undergraduate work.
 | CodeReview | ChicoState/PantryNode#53 | Resolved linter semicolon issues.          |
 | Research   | [Discussion Link](https://github.com/ChicoState/PantryNode/discussions/37) | SKU Feature -research.                     |
 | Discussion | [Discussion Link](https://github.com/ChicoState/PantryNode/discussions/71) | Game Plan Discussion.                     |
+| Discussion | [Discussion Link](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion.                     |
 
 ### Timeline
 
@@ -33,4 +34,5 @@ This profile is linked to my work involving my Master's and Undergraduate work.
   - ChicoState/PantryNode#53
   - https://github.com/ChicoState/PantryNode/discussions/37
   - https://github.com/ChicoState/PantryNode/discussions/71
+  - https://github.com/ChicoState/PantryNode/discussions/54
 
