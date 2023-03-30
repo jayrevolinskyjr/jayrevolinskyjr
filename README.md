@@ -18,9 +18,9 @@ This profile is linked to my work involving my Master's and Undergraduate work.
 | PairProg.  | ChicoState/PantryNode#40 | Troubleshooting/Programming with reembot   |
 | CodeReview | ChicoState/PantryNode#35 | Enable build step for all PRs.             |
 | CodeReview | ChicoState/PantryNode#53 | Resolved linter semicolon issues.          |
-| Research   | [Discussion Link](https://github.com/ChicoState/PantryNode/discussions/37) | SKU Feature -research.                     |
-| Discussion | [Discussion Link](https://github.com/ChicoState/PantryNode/discussions/71) | Game Plan Discussion.                     |
-| Discussion | [Discussion Link](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion.                     |
+| Research   | [SKU Feature Discussion#37](https://github.com/ChicoState/PantryNode/discussions/37) | SKU Feature -research.                     |
+| Discussion | [Game Plan Discussion#71](https://github.com/ChicoState/PantryNode/discussions/71) | Game Plan Discussion.                     |
+| Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion.                     |
 
 ### Timeline
 
