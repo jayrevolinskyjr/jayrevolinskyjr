@@ -21,7 +21,7 @@ This profile is linked to my work involving my Master's and Undergraduate work.
 | Research   | [SKU Feature Discussion#37](https://github.com/ChicoState/PantryNode/discussions/37) | SKU Feature -research.                     |
 | Discussion | [Game Plan Discussion#71](https://github.com/ChicoState/PantryNode/discussions/71) | Game Plan Discussion.                     |
 | Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion.                 |
-| Design     | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | SKU Design w/ [Jooms](https://github.com/Jooms)                 |
+| Design     | ChicoState/PantryNode#25 | SKU Design w/ [Jooms](https://github.com/Jooms)                 |
 
 ### Timeline
 
