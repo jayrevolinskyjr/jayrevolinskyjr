@@ -1,6 +1,6 @@
 ### Hello there, welcome to Jay Revolinsky's GitHub
 
-This profile is linked to my work involving my Master's and Undergraduate work.
+This profile is linked to my work as a student in CSCI 630 at CSU Chico.
 
 ## Contributions
 
