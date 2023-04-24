@@ -32,6 +32,7 @@ This profile is linked to my work involving my Master's and Undergraduate work.
 | Discussion | [SKU Updates discussion](https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665000)| Discussed updated design for SKU |
 | Design     | ChicoState/PantryNode#25 | SKU Design w/ [Jooms](https://github.com/Jooms)                 |
 | Design/Programming | https://github.com/ChicoState/PantryNode/issues/174 | WIP                |
+| Design/Programming | https://github.com/ChicoState/PantryNode/issues/193 | WIP                |
 
 
 ### Timeline
@@ -57,6 +58,7 @@ This profile is linked to my work involving my Master's and Undergraduate work.
   - CR - https://github.com/ChicoState/PantryNode/pull/103
   - DC - https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665000 , https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665052
   - BL - https://github.com/ChicoState/PantryNode/issues/174
+  - BL - https://github.com/ChicoState/PantryNode/issues/193
 
 
 **Key:**
