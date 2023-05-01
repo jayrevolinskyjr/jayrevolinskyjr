@@ -7,7 +7,7 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
 ### Highlights
 
 * Coordinated [discussion](https://github.com/ChicoState/PantryNode/discussions/37) on integrating SKU Lookup. ChicoState/PantryNode#25
-* Feature manager for ChicoState/PantryNode#174 - Responsible for design, coordination, and major portions of implementation.
+* Feature manager for ChicoState/PantryNode#174 - Responsible for [design](https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301), [coordination](https://github.com/ChicoState/PantryNode/pull/176), and major portions of [implementation](https://github.com/ChicoState/PantryNode/pull/176/commits/fde6c2de41c2d4f0bcbd0da04340a62d23ba6e53).
 * Started an issue to update the repository to the old standard https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340
 
 ### PantryNode
