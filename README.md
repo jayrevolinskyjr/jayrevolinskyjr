@@ -20,6 +20,8 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
 | PairProg.  | ChicoState/PantryNode#40 | Troubleshooting/Programming with [reembot](https://github.com/reembot)   |
 | Programming| [Integrated Frontend Linter](https://github.com/ChicoState/PantryNode/pull/150)| Assisted Frontend Team with Linter Configuration   |
 | Programming| [Assisted SKU Feature](https://github.com/ChicoState/PantryNode/pull/132)| Assisted development of Initial SKU Feature |
+| Programming| [SKU Feature](https://github.com/ChicoState/PantryNode/pull/176)| Design, Programming, Coordination |
+| Programming| [Donor Lookup Feature](https://github.com/ChicoState/PantryNode/issues/193)| Design, Programming, Coordination  |
 | CodeReview | ChicoState/PantryNode#35 | Enable build step for all PRs.             |
 | CodeReview | ChicoState/PantryNode#53 | Resolved linter semicolon issues.          |
 | CodeReview | [ReadMe updates](https://github.com/ChicoState/PantryNode/pull/163)| Better Backend Instructions |
