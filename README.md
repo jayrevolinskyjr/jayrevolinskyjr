@@ -32,7 +32,7 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
 | Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion.                 |
 | Discussion | [SKU Updates discussion](https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665000)| Discussed updated design for SKU |
 | Design     | ChicoState/PantryNode#25 | SKU Design w/ [Jooms](https://github.com/Jooms)                 |
-| Design/Programming | https://github.com/ChicoState/PantryNode/issues/174 | WIP                |
+| Design/Programming | https://github.com/ChicoState/PantryNode/issues/174 | Built backend w/ [briswells](https://github.com/briswells)               |
 | Design/Programming | https://github.com/ChicoState/PantryNode/issues/193 | WIP                |
 
 
@@ -60,13 +60,18 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
   - DC - https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665000 , https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665052
   - BL - https://github.com/ChicoState/PantryNode/issues/174
   - BL - https://github.com/ChicoState/PantryNode/issues/193
-
+* Sprint #4 - Started April 25th, 2023
+  - PR - https://github.com/ChicoState/PantryNode/pull/176
+  - PR - https://github.com/ChicoState/PantryNode/pull/221
+  - DS - https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301
+  - DS - https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340
+  - DC - https://github.com/ChicoState/PantryNode/issues/181#issuecomment-1520646559
 
 **Key:**
 
-- **PR** - PullRequest - I wrote code.
+- **PR** - PullRequest - I contributed code.
 - **CR** - CodeReview - I reviewed someone's change.
 - **BL** - BugLogging - I filed a GitHub Issue.
-- **DS** - Design - I design / broke-down a GitHub Issue.
+- **DS** - Design - I designed a solution to an Issue.
 - **DC** - Discussion - I started a discussion or discussed a topic relevant to the project
 
