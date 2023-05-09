@@ -70,9 +70,9 @@
   - PR - https://github.com/ChicoState/PantryNode/pull/226
   - DS - https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301
   - DS - https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340
-  - DS - https://github.com/ChicoState/PantryNode/issues/232
-  - DS - https://github.com/ChicoState/PantryNode/issues/233
-  - DS - https://github.com/ChicoState/PantryNode/issues/234
+  - BL/DS - https://github.com/ChicoState/PantryNode/issues/232
+  - BL/DS - https://github.com/ChicoState/PantryNode/issues/233
+  - BL/DS - https://github.com/ChicoState/PantryNode/issues/234
   - DC - https://github.com/ChicoState/PantryNode/issues/181#issuecomment-1520646559
 
 **Key:**
