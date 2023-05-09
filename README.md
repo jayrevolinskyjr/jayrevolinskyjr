@@ -20,6 +20,7 @@
 | Programming| [Assisted SKU Feature](https://github.com/ChicoState/PantryNode/pull/132)| Assisted development of Initial SKU Feature |
 | Programming| [SKU Feature](https://github.com/ChicoState/PantryNode/pull/176)| Design, Programming, Coordination |
 | Programming| [Donor Lookup Feature](https://github.com/ChicoState/PantryNode/issues/193)| Design, Programming, Coordination  |
+| Programming| [On-Demand Report Backend](https://github.com/ChicoState/PantryNode/pull/226)| Programming |
 | CodeReview | ChicoState/PantryNode#35 | Enable build step for all PRs.             |
 | CodeReview | ChicoState/PantryNode#53 | Resolved linter semicolon issues.          |
 | CodeReview | [ReadMe updates](https://github.com/ChicoState/PantryNode/pull/163)| Better Backend Instructions |
@@ -32,8 +33,11 @@
 | Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion.                 |
 | Discussion | [SKU Updates discussion](https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665000)| Discussed updated design for SKU |
 | Design     | ChicoState/PantryNode#25 | SKU Design w/ [Jooms](https://github.com/Jooms)                 |
+| Design     | [Issue #232](https://github.com/ChicoState/PantryNode/issues/232) | LookupDonor Search Functionality               |
+| Design     | [Issue #233](https://github.com/ChicoState/PantryNode/issues/233) | LookupDonor Edit Functionality               |
+| Design     | [Issue #234](https://github.com/ChicoState/PantryNode/issues/234) | LookupDonor Scanner Functionality               |
 | Design/Programming | https://github.com/ChicoState/PantryNode/issues/174 | Built backend w/ [briswells](https://github.com/briswells)               |
-| Design/Programming | https://github.com/ChicoState/PantryNode/issues/193 | WIP                |
+| Design/Programming | https://github.com/ChicoState/PantryNode/issues/193 | Donor Lookup Feature         |
 
 
 ### Timeline
@@ -63,6 +67,7 @@
 * Sprint #4 - Started April 25th, 2023
   - PR - https://github.com/ChicoState/PantryNode/pull/176
   - PR - https://github.com/ChicoState/PantryNode/pull/221
+  - PR - https://github.com/ChicoState/PantryNode/pull/226
   - DS - https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301
   - DS - https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340
   - DS - https://github.com/ChicoState/PantryNode/issues/232
