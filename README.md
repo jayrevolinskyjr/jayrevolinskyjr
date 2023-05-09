@@ -5,8 +5,8 @@
 ### Highlights
 
 * Coordinated [discussion](https://github.com/ChicoState/PantryNode/discussions/37) on integrating SKU Lookup. ChicoState/PantryNode#25
-* Feature manager for ChicoState/PantryNode#174 - Responsible for [design](https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301), [coordination](https://github.com/ChicoState/PantryNode/pull/176), and major portions of [implementation](https://github.com/ChicoState/PantryNode/pull/176/commits/fde6c2de41c2d4f0bcbd0da04340a62d23ba6e53).
-* Started an issue to update the repository to the old standard https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340
+* Feature manager for SKU Feature lookup - ChicoState/PantryNode#174 - Responsible for [design](https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301), [coordination](https://github.com/ChicoState/PantryNode/pull/176), and major portions of [implementation](https://github.com/ChicoState/PantryNode/pull/176/commits/fde6c2de41c2d4f0bcbd0da04340a62d23ba6e53).
+* Coordinated design of major portions of DonorLookup feature: https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340 with detailed breakdowns for advanced functionality: [Issue 232](https://github.com/ChicoState/PantryNode/issues/232), [Issue 233](https://github.com/ChicoState/PantryNode/issues/233), [Issue 234](https://github.com/ChicoState/PantryNode/issues/234)
 
 ### PantryNode
 
@@ -65,6 +65,9 @@
   - PR - https://github.com/ChicoState/PantryNode/pull/221
   - DS - https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301
   - DS - https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340
+  - DS - https://github.com/ChicoState/PantryNode/issues/232
+  - DS - https://github.com/ChicoState/PantryNode/issues/233
+  - DS - https://github.com/ChicoState/PantryNode/issues/234
   - DC - https://github.com/ChicoState/PantryNode/issues/181#issuecomment-1520646559
 
 **Key:**
