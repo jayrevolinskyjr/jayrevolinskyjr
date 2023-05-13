@@ -16,8 +16,8 @@
 | DevOps     | ChicoState/PantryNode#47 | README instructions - run ESLint local.    | 
 | Feature    | ChicoState/PantryNode#25 | Integrate SKU lookup.                      | 
 | PairProg.  | ChicoState/PantryNode#40 | Troubleshooting/Programming with [reembot](https://github.com/reembot)   |
+| PairProg.| [Assisted SKU Feature](https://github.com/ChicoState/PantryNode/pull/132)| Assisted development of Initial SKU Feature |
 | Programming| [Integrated Frontend Linter](https://github.com/ChicoState/PantryNode/pull/150)| Assisted Frontend Team with Linter Configuration   |
-| Programming| [Assisted SKU Feature](https://github.com/ChicoState/PantryNode/pull/132)| Assisted development of Initial SKU Feature |
 | Programming| [SKU Feature](https://github.com/ChicoState/PantryNode/pull/176)| Design, Programming, Coordination |
 | Programming| [Donor Lookup Feature](https://github.com/ChicoState/PantryNode/issues/193)| Design, Programming, Coordination  |
 | Programming| [On-Demand Report Backend](https://github.com/ChicoState/PantryNode/pull/226)| Programming |
