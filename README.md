@@ -64,16 +64,18 @@
   - DC - https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665000 , https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665052
   - BL - https://github.com/ChicoState/PantryNode/issues/174
   - BL - https://github.com/ChicoState/PantryNode/issues/193
-* Sprint #4 - Started April 25th, 2023
+* Sprint #4 - Started April 18th, 2023
   - PR - https://github.com/ChicoState/PantryNode/pull/176
   - PR - https://github.com/ChicoState/PantryNode/pull/221
   - PR - https://github.com/ChicoState/PantryNode/pull/226
   - DS - https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301
   - DS - https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340
+  - DC - https://github.com/ChicoState/PantryNode/issues/181#issuecomment-1520646559
+* Sprint #5 - Started May 2nd, 2023
   - BL/DS - https://github.com/ChicoState/PantryNode/issues/232
   - BL/DS - https://github.com/ChicoState/PantryNode/issues/233
   - BL/DS - https://github.com/ChicoState/PantryNode/issues/234
-  - DC - https://github.com/ChicoState/PantryNode/issues/181#issuecomment-1520646559
+  - PR - https://github.com/ChicoState/PantryNode/pull/226
 
 **Key:**
 
