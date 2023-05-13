@@ -17,11 +17,10 @@
 | Feature    | ChicoState/PantryNode#25 | Integrate SKU lookup.                      | 
 | PairProg.  | ChicoState/PantryNode#40 | Troubleshooting/Programming with [reembot](https://github.com/reembot)   |
 | PairProg.| [Assisted SKU Feature](https://github.com/ChicoState/PantryNode/pull/132)| Assisted development of Initial SKU Feature with [Yashvi](https://github.com/ysiddhapura) |
-| PairProg.| [Donor Lookup Feature](https://github.com/ChicoState/PantryNode/issues/193)| Pair Programming with   |
-| Programming| [Integrated Frontend Linter](https://github.com/ChicoState/PantryNode/pull/150)| Assisted Frontend Team with Linter Configuration   |
+| PairProg.| [Donor Lookup Feature](https://github.com/ChicoState/PantryNode/issues/193)| Pair Programming w/ [Yashvi](https://github.com/ysiddhapura) on Frontend and assisted with Full-Stack components   |
+| Programming| [Integrated Frontend Linter](https://github.com/ChicoState/PantryNode/pull/150)| Assisted Frontend Team with Linter Configuration |
 | Programming| [SKU Feature](https://github.com/ChicoState/PantryNode/pull/176)| Design, Programming, Coordination |
-
-| Programming| [On-Demand Report Backend](https://github.com/ChicoState/PantryNode/pull/226)| Programming w/ [Yashvi](https://github.com/ysiddhapura) on Frontend and assisted with Full-Stack components |
+| Programming| [On-Demand Report Backend](https://github.com/ChicoState/PantryNode/pull/226)| Programming  |
 | CodeReview | ChicoState/PantryNode#35 | Enable build step for all PRs.             |
 | CodeReview | ChicoState/PantryNode#53 | Resolved linter semicolon issues.          |
 | CodeReview | [ReadMe updates](https://github.com/ChicoState/PantryNode/pull/163)| Better Backend Instructions |
