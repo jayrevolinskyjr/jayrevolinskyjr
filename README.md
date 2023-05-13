@@ -32,7 +32,7 @@
 | Discussion | [Game Plan Discussion#71](https://github.com/ChicoState/PantryNode/discussions/71) | Game Plan Discussion.                     |
 | Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion.                 |
 | Discussion | [SKU Updates discussion](https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665000)| Discussed updated design for SKU |
-| Design     | ChicoState/PantryNode#193 | Donor Lookup Feature Design w/ [Yashvi](https://github.com/ysiddhapura), [Parth]([https://github.com/ysiddhapura](https://github.com/parthpandey1)), [Anoushka](https://github.com/Anoushka444)                 |
+| Design     | ChicoState/PantryNode#193 | Donor Lookup Feature Design w/ [Yashvi](https://github.com/ysiddhapura), [Parth](https://github.com/parthpandey1), [Anoushka](https://github.com/Anoushka444)                 |
 | Design     | ChicoState/PantryNode#25 | SKU Design w/ [Jooms](https://github.com/Jooms)                 |
 | Design     | [Issue #232](https://github.com/ChicoState/PantryNode/issues/232) | LookupDonor Search Functionality               |
 | Design     | [Issue #233](https://github.com/ChicoState/PantryNode/issues/233) | LookupDonor Edit Functionality               |
