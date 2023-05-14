@@ -7,6 +7,7 @@
 * Coordinated [discussion](https://github.com/ChicoState/PantryNode/discussions/37) on integrating SKU Lookup. ChicoState/PantryNode#25
 * Feature manager for SKU Feature lookup - ChicoState/PantryNode#174 - Responsible for [design](https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301), [coordination](https://github.com/ChicoState/PantryNode/pull/176), and major portions of [implementation](https://github.com/ChicoState/PantryNode/pull/176/commits/fde6c2de41c2d4f0bcbd0da04340a62d23ba6e53).
 * Coordinated design of major portions of DonorLookup feature: https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340 with detailed breakdowns for advanced functionality: [Issue 232](https://github.com/ChicoState/PantryNode/issues/232), [Issue 233](https://github.com/ChicoState/PantryNode/issues/233), [Issue 234](https://github.com/ChicoState/PantryNode/issues/234)
+* Programmed the backend for the On-Demand Report Feature: [PR 226](https://github.com/ChicoState/PantryNode/pull/226)
 
 ### PantryNode
 
