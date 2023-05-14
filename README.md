@@ -21,13 +21,14 @@
 | PairProg.| [Donor Lookup Feature](https://github.com/ChicoState/PantryNode/issues/193)| Pair Programming w/ [Yashvi](https://github.com/ysiddhapura) on Frontend and assisted with Full-Stack components   |
 | Programming| [Integrated Frontend Linter](https://github.com/ChicoState/PantryNode/pull/150)| Assisted Frontend Team with Linter Configuration |
 | Programming| [SKU Feature](https://github.com/ChicoState/PantryNode/pull/176)| Design, Programming, Coordination |
-| Programming| [On-Demand Report Backend](https://github.com/ChicoState/PantryNode/pull/226)| Programming  |
+| Programming| [On-Demand Report Backend](https://github.com/ChicoState/PantryNode/pull/226)| Programming and Troubleshooting w/ [reembot](https://github.com/reembot)  |
 | CodeReview | ChicoState/PantryNode#35 | Enable build step for all PRs.             |
 | CodeReview | ChicoState/PantryNode#53 | Resolved linter semicolon issues.          |
 | CodeReview | [ReadMe updates](https://github.com/ChicoState/PantryNode/pull/163)| Better Backend Instructions |
 | CodeReview | [Stock routes for inventory](https://github.com/ChicoState/PantryNode/pull/154)| Views for handling stock routes/models|
 | CodeReview | [Docker Fix](https://github.com/ChicoState/PantryNode/pull/149)| Assisted in resolving docker issues|
 | CodeReview | [Linter Overrides Fix](https://github.com/ChicoState/PantryNode/pull/103)| Reviewed and assisted with linter overrides|
+| CodeReview | [Route Authentication](https://github.com/ChicoState/PantryNode/pull/239)| Reviewed route authentication fix|
 | Research   | [SKU Feature Discussion#37](https://github.com/ChicoState/PantryNode/discussions/37) | SKU Feature -research.                     |
 | Research   | [Linter Frontend Build Error](https://github.com/ChicoState/PantryNode/issues/181#issuecomment-1520646559)| Frontend Build w/ Linter Investigation|
 | Discussion | [Game Plan Discussion#71](https://github.com/ChicoState/PantryNode/discussions/71) | Game Plan Discussion.                     |
@@ -78,6 +79,7 @@
   - BL/DS - https://github.com/ChicoState/PantryNode/issues/233
   - BL/DS - https://github.com/ChicoState/PantryNode/issues/234
   - PR - https://github.com/ChicoState/PantryNode/pull/226
+  - CR - https://github.com/ChicoState/PantryNode/pull/239
 
 **Key:**
 
