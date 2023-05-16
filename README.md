@@ -8,6 +8,8 @@
 * Coordinated design and pair programmed for major portions of DonorLookup feature: https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340 with detailed breakdowns for advanced search, scanner, and edit functionality: [Issue 232](https://github.com/ChicoState/PantryNode/issues/232), [Issue 233](https://github.com/ChicoState/PantryNode/issues/233), [Issue 234](https://github.com/ChicoState/PantryNode/issues/234)
 * Programmed the backend for the On-Demand Report Feature: [PR 226](https://github.com/ChicoState/PantryNode/pull/226), which involved updates to the database, dummy data, route authentication, and additional Sequelize functions for total donations, total checkouts, and unique checkouts.
 
+#### Note: Many of the rows marked as 'Design' are tied to issues generated for 'Bug Logging' to improve visibility to other contributors. Something that I call 'Design' is also effectively 'Bug Logging'.
+
 ### PantryNode
 
 | Type       | Link                     | Notes                                      |
@@ -33,6 +35,8 @@
 | Discussion | [Game Plan Discussion#71](https://github.com/ChicoState/PantryNode/discussions/71) | Game Plan Discussion, started with baseline update from CI team to provide reference for other teams to get up-to-speed on finished CI/CD deployment.                     |
 | Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion, started the SKU Lookup feature discussion here.                 |
 | Discussion | [SKU Updates discussion](https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665000)| Discussed updated design for SKU |
+| Discussion | [Original Project Requirements discussion](https://github.com/ChicoState/PantryNode/discussions/65#discussioncomment-5654791)| Discussed the current project design and how it related to the original project's design, updated the list to include links to appropriate issues and discussions. Determined that [complete backend updates](https://github.com/ChicoState/PantryNode/discussions/65#discussioncomment-5775245) were not necessary to build the same high-level functionality in this project as the original project. |
+| Design     | ChicoState/PantryNode#227 | Item Quantity and Availability lookup feature, came up with tasks necessary to bring feature up-to-par with original project.                 |
 | Design     | ChicoState/PantryNode#193 | Donor Lookup Feature Design w/ [Yashvi](https://github.com/ysiddhapura), [Parth](https://github.com/parthpandey1), [Anoushka](https://github.com/Anoushka444)                 |
 | Design     | ChicoState/PantryNode#25 | SKU Design and subtask creation w/ [Jooms](https://github.com/Jooms), created an ER diagram to simplify functionality implementation.                |
 | Design     | [223](https://github.com/ChicoState/PantryNode/issues/223#issuecomment-1530092191)| On-Demand Report generation design w/ [Parth](https://github.com/parthpandey1), determined that there was a significant amount of overlap between the Summary frontend and initial On-Demand Report Design.
@@ -74,10 +78,12 @@
   - DS - https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301
   - DS - https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340
   - DC - https://github.com/ChicoState/PantryNode/issues/181#issuecomment-1520646559
-* Sprint #5 - Started May 2nd, 2023
+* Sprint #5, #6 - Started May 2nd and 9th, 2023
+  - BL/DS - https://github.com/ChicoState/PantryNode/issues/175
   - BL/DS - https://github.com/ChicoState/PantryNode/issues/232
   - BL/DS - https://github.com/ChicoState/PantryNode/issues/233
   - BL/DS - https://github.com/ChicoState/PantryNode/issues/234
+  - DC - https://github.com/ChicoState/PantryNode/discussions/65#discussioncomment-5775245
   - PR - https://github.com/ChicoState/PantryNode/pull/226
   - CR - https://github.com/ChicoState/PantryNode/pull/239
 
