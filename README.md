@@ -1,12 +1,12 @@
-### Hello there, welcome to Jay Revolinsky's CSCI 630 Profile
+### Hello there, welcome to Jay Revolinsky's CSCI 630 Profile!
 
 ## Contributions
 
 ### Highlights
 
-* Coordinated the SKU Lookup Feature - ChicoState/PantryNode#174 - Responsible for [research](https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5186509), [planning](https://github.com/ChicoState/PantryNode/issues/25), [design](https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301), [coordination](https://github.com/ChicoState/PantryNode/pull/176), and major portions of [implementation](https://github.com/ChicoState/PantryNode/pull/176/commits/fde6c2de41c2d4f0bcbd0da04340a62d23ba6e53).
-* Coordinated design of major portions of DonorLookup feature: https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340 with detailed breakdowns for advanced functionality: [Issue 232](https://github.com/ChicoState/PantryNode/issues/232), [Issue 233](https://github.com/ChicoState/PantryNode/issues/233), [Issue 234](https://github.com/ChicoState/PantryNode/issues/234)
-* Programmed the backend for the On-Demand Report Feature: [PR 226](https://github.com/ChicoState/PantryNode/pull/226)
+* Coordinated the SKU Lookup Feature with code contributions - ChicoState/PantryNode#174 - Responsible for [research](https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5186509), [planning](https://github.com/ChicoState/PantryNode/issues/25), [design](https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301), [coordination](https://github.com/ChicoState/PantryNode/pull/176), and major portions of [implementation](https://github.com/ChicoState/PantryNode/pull/176/commits/fde6c2de41c2d4f0bcbd0da04340a62d23ba6e53) which originally involved using the Proxy design pattern to lazy load the [OpenFoodFacts API](https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5745127) and implementing the PLU codes into the Database based on which was relevant for the user. Updated implementation simplified but similar to Proxy.
+* Coordinated design and pair programmed for major portions of DonorLookup feature: https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340 with detailed breakdowns for advanced search, scanner, and edit functionality: [Issue 232](https://github.com/ChicoState/PantryNode/issues/232), [Issue 233](https://github.com/ChicoState/PantryNode/issues/233), [Issue 234](https://github.com/ChicoState/PantryNode/issues/234)
+* Programmed the backend for the On-Demand Report Feature: [PR 226](https://github.com/ChicoState/PantryNode/pull/226), which involved updates to the database, dummy data, route authentication, and additional Sequelize functions for total donations, total checkouts, and unique checkouts.
 
 ### PantryNode
 
@@ -34,13 +34,13 @@
 | Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion, started the SKU Lookup feature discussion here.                 |
 | Discussion | [SKU Updates discussion](https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665000)| Discussed updated design for SKU |
 | Design     | ChicoState/PantryNode#193 | Donor Lookup Feature Design w/ [Yashvi](https://github.com/ysiddhapura), [Parth](https://github.com/parthpandey1), [Anoushka](https://github.com/Anoushka444)                 |
-| Design     | ChicoState/PantryNode#25 | SKU Design and subtask creation w/ [Jooms](https://github.com/Jooms)                 |
+| Design     | ChicoState/PantryNode#25 | SKU Design and subtask creation w/ [Jooms](https://github.com/Jooms), created an ER diagram to simplify functionality implementation.                |
 | Design     | [223](https://github.com/ChicoState/PantryNode/issues/223#issuecomment-1530092191)| On-Demand Report generation design w/ [Parth](https://github.com/parthpandey1), determined that there was a significant amount of overlap between the Summary frontend and initial On-Demand Report Design.
 | Design     | [Issue #232](https://github.com/ChicoState/PantryNode/issues/232) | LookupDonor Search Functionality Design, generated an issue and designed the implementation of a foundational search functionality for the donor lookup feature into a modular design that can be built upon to include more advanced features.              |
 | Design     | [Issue #233](https://github.com/ChicoState/PantryNode/issues/233) | LookupDonor Edit Functionality, similar to the search functionality except considered advanced features for modular design, like the possibility of a memento to allow users to easily edit their donations.               |
 | Design     | [Issue #234](https://github.com/ChicoState/PantryNode/issues/234) | LookupDonor Scanner Functionality, generated an issue and designed the implementation of a foundational scanner functionality for the donor lookup feature that integrates the current work from the SKU feature into a modular design that can be built upon to include more advanced features.               |
 | Design/Programming | https://github.com/ChicoState/PantryNode/issues/174 | Built SKU Lookup feature backend w/ [briswells](https://github.com/briswells)               |
-| Design/Programming | https://github.com/ChicoState/PantryNode/issues/193 | Donor Lookup Feature w/ [Yashvi](https://github.com/ysiddhapura), [Parth](https://github.com/parthpandey1), [Anoushka](https://github.com/Anoushka444)        |
+| Design/Programming | https://github.com/ChicoState/PantryNode/issues/193 | Donor Lookup Feature w/ [Yashvi](https://github.com/ysiddhapura), [Parth](https://github.com/parthpandey1), [Anoushka](https://github.com/Anoushka444) created an ER diagram for easy reference that was progressively updated.       |
 
 
 ### Timeline
