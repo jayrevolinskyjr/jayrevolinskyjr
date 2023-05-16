@@ -4,8 +4,7 @@
 
 ### Highlights
 
-* Coordinated [discussion](https://github.com/ChicoState/PantryNode/discussions/37) on integrating SKU Lookup. ChicoState/PantryNode#25
-* Feature manager for SKU Feature lookup - ChicoState/PantryNode#174 - Responsible for [design](https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301), [coordination](https://github.com/ChicoState/PantryNode/pull/176), and major portions of [implementation](https://github.com/ChicoState/PantryNode/pull/176/commits/fde6c2de41c2d4f0bcbd0da04340a62d23ba6e53).
+* Coordinated the SKU Lookup Feature - ChicoState/PantryNode#174 - Responsible for [research](https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5186509), [planning](https://github.com/ChicoState/PantryNode/issues/25), [design](https://github.com/ChicoState/PantryNode/pull/176#issuecomment-1524696301), [coordination](https://github.com/ChicoState/PantryNode/pull/176), and major portions of [implementation](https://github.com/ChicoState/PantryNode/pull/176/commits/fde6c2de41c2d4f0bcbd0da04340a62d23ba6e53).
 * Coordinated design of major portions of DonorLookup feature: https://github.com/ChicoState/PantryNode/issues/193#issue-1682051340 with detailed breakdowns for advanced functionality: [Issue 232](https://github.com/ChicoState/PantryNode/issues/232), [Issue 233](https://github.com/ChicoState/PantryNode/issues/233), [Issue 234](https://github.com/ChicoState/PantryNode/issues/234)
 * Programmed the backend for the On-Demand Report Feature: [PR 226](https://github.com/ChicoState/PantryNode/pull/226)
 
@@ -13,34 +12,35 @@
 
 | Type       | Link                     | Notes                                      |
 |------------|--------------------------|--------------------------------------------|
-| DevOps     | ChicoState/PantryNode#41 | Enabled build step on push to main.        | 
-| DevOps     | ChicoState/PantryNode#47 | README instructions - run ESLint local.    | 
-| Feature    | ChicoState/PantryNode#25 | Integrate SKU lookup.                      | 
-| PairProg.  | ChicoState/PantryNode#40 | Troubleshooting/Programming with [reembot](https://github.com/reembot)   |
-| PairProg.| [Assisted SKU Feature](https://github.com/ChicoState/PantryNode/pull/132)| Assisted development of Initial SKU Feature with [Yashvi](https://github.com/ysiddhapura) |
-| PairProg.| [Donor Lookup Feature](https://github.com/ChicoState/PantryNode/issues/193)| Pair Programming w/ [Yashvi](https://github.com/ysiddhapura) on Frontend and assisted with Full-Stack components   |
-| Programming| [Integrated Frontend Linter](https://github.com/ChicoState/PantryNode/pull/150)| Assisted Frontend Team with Linter Configuration |
-| Programming| [SKU Feature](https://github.com/ChicoState/PantryNode/pull/176)| Design, Programming, Coordination |
-| Programming| [On-Demand Report Backend](https://github.com/ChicoState/PantryNode/pull/226)| Programming and Troubleshooting w/ [reembot](https://github.com/reembot)  |
+| DevOps     | ChicoState/PantryNode#41 | Assisted with research and programming that enabled build step on push to main.        | 
+| DevOps     | ChicoState/PantryNode#47 | Added README instructions to run ESLint locally.    | 
+| Feature    | ChicoState/PantryNode#25 | Research for SKU lookup feature.                      | 
+| PairProg.  | ChicoState/PantryNode#40 | Troubleshooting/Programming with [reembot](https://github.com/reembot) to get the linter running locally.  |
+| PairProg.| [Assisted SKU Feature](https://github.com/ChicoState/PantryNode/pull/132)| Assisted development and programming of Initial SKU Feature with [Yashvi](https://github.com/ysiddhapura) |
+| PairProg.| [Donor Lookup Feature](https://github.com/ChicoState/PantryNode/issues/193)| Pair Programming w/ [Yashvi](https://github.com/ysiddhapura) on Frontend and assisted with Full-Stack components of Donor Lookup Feature  |
+| Programming| [Integrated Frontend Linter](https://github.com/ChicoState/PantryNode/pull/150)| Assisted Frontend Team with Linter Configuration and Debugging. |
+| Programming| [SKU Feature](https://github.com/ChicoState/PantryNode/pull/176)| Design, Programming, Coordination of the SKU Feature w/ [Yashvi](https://github.com/ysiddhapura), [reembot](https://github.com/reembot), [Parth](https://github.com/parthpandey1), [Jooms](https://github.com/Jooms), [Anoushka](https://github.com/Anoushka444) |
+| Programming| [On-Demand Report Backend](https://github.com/ChicoState/PantryNode/pull/226)| Implemented Sequelize functions to return all donations, checkouts and unique donations. Programming and troubleshooting w/ [reembot](https://github.com/reembot) on handling dummy data to update functions properly, updated routes to have proper authentication. |
 | CodeReview | ChicoState/PantryNode#35 | Enable build step for all PRs.             |
-| CodeReview | ChicoState/PantryNode#53 | Resolved linter semicolon issues.          |
+| CodeReview | ChicoState/PantryNode#53 | Resolved linter semicolon issues w/ [Anoushka](https://github.com/Anoushka444).          |
 | CodeReview | [ReadMe updates](https://github.com/ChicoState/PantryNode/pull/163)| Better Backend Instructions |
 | CodeReview | [Stock routes for inventory](https://github.com/ChicoState/PantryNode/pull/154)| Views for handling stock routes/models|
-| CodeReview | [Docker Fix](https://github.com/ChicoState/PantryNode/pull/149)| Assisted in resolving docker issues|
-| CodeReview | [Linter Overrides Fix](https://github.com/ChicoState/PantryNode/pull/103)| Reviewed and assisted with linter overrides|
+| CodeReview | [Docker Fix](https://github.com/ChicoState/PantryNode/pull/149)| Assisted in resolving docker issues, found root cause of problem thanks to [Shubham](https://github.com/shubhamlatkar), worked with [briswells](https://github.com/briswells) and [Hardik](https://github.com/hardikpatil) to get PantryNode running properly.  |
+| CodeReview | [Linter Overrides Fix](https://github.com/ChicoState/PantryNode/pull/103)| Reviewed and assisted with linter overrides w/ [Reema](https://github.com/reembot), [Jooms](https://github.com/Jooms), [Anoushka](https://github.com/Anoushka444) |
 | CodeReview | [Route Authentication](https://github.com/ChicoState/PantryNode/pull/239)| Reviewed route authentication fix|
-| Research   | [SKU Feature Discussion#37](https://github.com/ChicoState/PantryNode/discussions/37) | SKU Feature -research.                     |
-| Research   | [Linter Frontend Build Error](https://github.com/ChicoState/PantryNode/issues/181#issuecomment-1520646559)| Frontend Build w/ Linter Investigation|
-| Discussion | [Game Plan Discussion#71](https://github.com/ChicoState/PantryNode/discussions/71) | Game Plan Discussion.                     |
-| Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion.                 |
+| Research   | [SKU Feature Discussion#37](https://github.com/ChicoState/PantryNode/discussions/37) | Research on SKU Feature, that determined [Quagga](https://github.com/ericblade/quagga2) would be a better option for our initial purposes than [ZXing](https://github.com/zxing/zxing).                     |
+| Research   | [Linter Frontend Build Error](https://github.com/ChicoState/PantryNode/issues/181#issuecomment-1520646559)| Frontend Build w/ Linter Investigation, found that there were two possible options to alleviate problem where linter on 'let vs. var' caused build options to fail. Choose to enforce strict standards to avoid future problems. |
+| Discussion | [Game Plan Discussion#71](https://github.com/ChicoState/PantryNode/discussions/71) | Game Plan Discussion, started with baseline update from CI team to provide reference for other teams to get up-to-speed on finished CI/CD deployment.                     |
+| Discussion | [Future Feature Discussion#54](https://github.com/ChicoState/PantryNode/discussions/54) | Future Feature Discussion, started the SKU Lookup feature discussion here.                 |
 | Discussion | [SKU Updates discussion](https://github.com/ChicoState/PantryNode/discussions/37#discussioncomment-5665000)| Discussed updated design for SKU |
 | Design     | ChicoState/PantryNode#193 | Donor Lookup Feature Design w/ [Yashvi](https://github.com/ysiddhapura), [Parth](https://github.com/parthpandey1), [Anoushka](https://github.com/Anoushka444)                 |
-| Design     | ChicoState/PantryNode#25 | SKU Design w/ [Jooms](https://github.com/Jooms)                 |
-| Design     | [Issue #232](https://github.com/ChicoState/PantryNode/issues/232) | LookupDonor Search Functionality               |
-| Design     | [Issue #233](https://github.com/ChicoState/PantryNode/issues/233) | LookupDonor Edit Functionality               |
-| Design     | [Issue #234](https://github.com/ChicoState/PantryNode/issues/234) | LookupDonor Scanner Functionality               |
-| Design/Programming | https://github.com/ChicoState/PantryNode/issues/174 | Built backend w/ [briswells](https://github.com/briswells)               |
-| Design/Programming | https://github.com/ChicoState/PantryNode/issues/193 | Donor Lookup Feature         |
+| Design     | ChicoState/PantryNode#25 | SKU Design and subtask creation w/ [Jooms](https://github.com/Jooms)                 |
+| Design     | [223](https://github.com/ChicoState/PantryNode/issues/223#issuecomment-1530092191)| On-Demand Report generation design w/ [Parth](https://github.com/parthpandey1), determined that there was a significant amount of overlap between the Summary frontend and initial On-Demand Report Design.
+| Design     | [Issue #232](https://github.com/ChicoState/PantryNode/issues/232) | LookupDonor Search Functionality Design, generated an issue and designed the implementation of a foundational search functionality for the donor lookup feature into a modular design that can be built upon to include more advanced features.              |
+| Design     | [Issue #233](https://github.com/ChicoState/PantryNode/issues/233) | LookupDonor Edit Functionality, similar to the search functionality except considered advanced features for modular design, like the possibility of a memento to allow users to easily edit their donations.               |
+| Design     | [Issue #234](https://github.com/ChicoState/PantryNode/issues/234) | LookupDonor Scanner Functionality, generated an issue and designed the implementation of a foundational scanner functionality for the donor lookup feature that integrates the current work from the SKU feature into a modular design that can be built upon to include more advanced features.               |
+| Design/Programming | https://github.com/ChicoState/PantryNode/issues/174 | Built SKU Lookup feature backend w/ [briswells](https://github.com/briswells)               |
+| Design/Programming | https://github.com/ChicoState/PantryNode/issues/193 | Donor Lookup Feature w/ [Yashvi](https://github.com/ysiddhapura), [Parth](https://github.com/parthpandey1), [Anoushka](https://github.com/Anoushka444)        |
 
 
 ### Timeline
